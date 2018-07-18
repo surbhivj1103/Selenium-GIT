@@ -5,7 +5,7 @@ public class sample {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("Checking code commint in GIT");
+		System.out.println("updating code commint in GIT");
 
 	}
 
